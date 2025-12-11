@@ -23,7 +23,7 @@
         <!-- Card 2 (Black) -->
         <div class="bg-black text-white p-8 rounded-xl flex flex-col justify-between min-h-[320px] relative group hover:shadow-lg transition-shadow">
             <div>
-                <h3 class="text-xl font-medium mb-2">+75% click-to-sale on new pages created with AirOps</h3>
+                <h3 class="text-xl font-medium mb-2">+75% click-to-sale on new pages created with Superpilot</h3>
             </div>
             <div class="mt-auto">
                 <div class="flex items-center justify-between">

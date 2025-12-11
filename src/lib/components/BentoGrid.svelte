@@ -197,7 +197,7 @@
             <div class="p-12 border-r border-gray-200 bg-[#E9D8FD]/30">
                 <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Integrations</span>
                 <h3 class="text-3xl font-serif-display mb-4">Connect your stack for richer context (and less friction)</h3>
-                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Plug AirOps into your stack. Connect data sources, destinations, and tools seamlessly into your CMS. No more handoffs required.</p>
+                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Plug Superpilot into your stack. Connect data sources, destinations, and tools seamlessly into your CMS. No more handoffs required.</p>
                 <a href="#" class="text-xs font-bold flex items-center hover:underline">Learn More <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
             <div class="p-12 bg-white flex items-center justify-center">

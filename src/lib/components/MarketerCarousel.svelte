@@ -19,7 +19,7 @@
              <div class="p-8 h-full flex flex-col justify-end relative z-10">
                  <h3 class="text-2xl font-serif-display mb-2">Needs Builders, Not Bystanders</h3>
                  <div class="flex items-center justify-between mt-4">
-                     <span class="font-bold text-xs opacity-50">airops</span>
+                     <span class="font-bold text-xs opacity-50">superpilot</span>
                      <div class="w-10 h-10 bg-white rounded-full flex items-center justify-center shadow-sm">
                          <svg class="w-4 h-4 ml-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
                      </div>

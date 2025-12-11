@@ -23,7 +23,7 @@
                 <h3 class="font-bold mb-6">Frequently Asked Questions</h3>
             </div>
             <div class="md:col-span-3 space-y-6">
-                {#each ['How is AirOps different from other generative AI tools?', 'What types of content can I create on AirOps?', 'How does AirOps help me beyond content creation?', 'What if I already use an SEO agency?', 'How does pricing work?'] as q}
+                {#each ['How is Superpilot different from other generative AI tools?', 'What types of content can I create on Superpilot?', 'How does Superpilot help me beyond content creation?', 'What if I already use an SEO agency?', 'How does pricing work?'] as q}
                 <div class="border-b border-white/10 pb-6 flex justify-between items-center cursor-pointer group">
                     <span class="text-lg font-light group-hover:text-brand-green transition-colors">{q}</span>
                     <span class="text-2xl font-light">+</span>
@@ -67,11 +67,11 @@
                 <ul class="space-y-2">
                     <li><a href="#" class="hover:text-white">Academy</a></li>
                     <li><a href="#" class="hover:text-white">Blog</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps Research</a></li>
+                    <li><a href="#" class="hover:text-white">Superpilot Research</a></li>
                     <li><a href="#" class="hover:text-white">SEO AI Leader Playbook</a></li>
                     <li><a href="#" class="hover:text-white">SEO Analysis</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps vs Writer</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps vs Jasper</a></li>
+                    <li><a href="#" class="hover:text-white">Superpilot vs Conductor</a></li>
+                    <li><a href="#" class="hover:text-white">Superpilot vs Bloomreach</a></li>
                     <li><a href="#" class="hover:text-white">Prompts</a></li>
                 </ul>
             </div>
@@ -80,14 +80,14 @@
                 <ul class="space-y-2">
                     <li><a href="#" class="hover:text-white">Talk to Us</a></li>
                     <li><a href="#" class="hover:text-white">Community</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps Job Board</a></li>
+                    <li><a href="#" class="hover:text-white">Superpilot Job Board</a></li>
                     <li><a href="#" class="hover:text-white">Events</a></li>
                 </ul>
             </div>
         </div>
         
         <div class="mt-32 text-center relative">
-             <h1 class="text-[12rem] md:text-[16rem] font-bold tracking-tighter leading-none text-white select-none">airops</h1>
+             <h1 class="text-[12rem] md:text-[16rem] font-bold tracking-tighter leading-none text-white select-none">superpilot</h1>
              <div class="absolute bottom-4 right-0 flex gap-4 text-[10px] text-gray-500 uppercase tracking-widest">
                  <a href="#">Privacy Policy</a>
                  <a href="#">Terms</a>
