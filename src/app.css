@@ -5,15 +5,15 @@
 	--font-sans: 'Inter', sans-serif;
 	--font-serif: 'Playfair Display', serif;
 
-	/* Custom Colors */
-	--color-brand-green: #00E560;
-	--color-brand-green-hover: #00cc55;
-	--color-brand-dark: #052e16;
-	--color-brand-darker: #021a0c;
+	/* Custom Colors - Superpilot Brand */
+	--color-brand-green: #EA580C;
+	--color-brand-green-hover: #C2410C;
+	--color-brand-dark: #1C1917;
+	--color-brand-darker: #0C0A09;
 	--color-brand-blue: #1e1b4b;
 	--color-brand-cream: #FDFBF7;
-	--color-brand-pink: #FCE7F3;
-	--color-brand-light-green: #DCFCE7;
+	--color-brand-pink: #FFF7ED;
+	--color-brand-light-green: #FFF7ED;
 	--color-brand-yellow: #FEF9C3;
 	--color-brand-purple: #F3E8FF;
 }

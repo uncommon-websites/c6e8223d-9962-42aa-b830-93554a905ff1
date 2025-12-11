@@ -12,20 +12,20 @@
         
         <!-- Headline -->
         <h1 class="text-5xl md:text-7xl lg:text-8xl font-serif-display text-gray-900 leading-[1.1] tracking-tight mb-6 max-w-5xl mx-auto">
-            Craft content <br class="hidden md:block" />
-            that wins 
+            Win commerce in <br class="hidden md:block" />
+            AI 
             <span class="inline-flex items-center align-middle mx-1 md:mx-2 relative -top-1 md:-top-2">
-                <svg width="60" height="60" viewBox="0 0 100 100" class="w-10 h-10 md:w-16 md:h-16 text-[#2A9D8F] animate-spin-slow" fill="currentColor">
+                <svg width="60" height="60" viewBox="0 0 100 100" class="w-10 h-10 md:w-16 md:h-16 text-[#EA580C] animate-spin-slow" fill="currentColor">
                     <!-- Stylized Asterisk/Flower -->
                     <path d="M50 0 L60 35 L95 25 L70 50 L95 75 L60 65 L50 100 L40 65 L5 75 L30 50 L5 25 L40 35 Z" />
                 </svg>
             </span>
-            search
+            search engines
         </h1>
 
         <!-- Subheadline -->
         <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-10 leading-relaxed">
-            AirOps powers your content strategy, creation, and performance, helping your brand get seen, cited, and celebrated.
+            Superpilot captures commerce growth opportunities across AI search engines via automated catalog-connected content generation.
         </p>
 
         <!-- CTA -->
@@ -52,10 +52,10 @@
                     </svg>
                 </div>
 
-                <!-- Error Message Text (Recreating the screenshot detail) -->
-                <h3 class="text-white text-xl md:text-2xl font-medium mb-2">We couldn't verify the security of your connection.</h3>
+                <!-- Demo Message -->
+                <h3 class="text-white text-xl md:text-2xl font-medium mb-2">See how Superpilot works</h3>
                 <p class="text-gray-400 text-sm md:text-base max-w-lg">
-                    Access to this content has been restricted. Contact your internet service provider for help.
+                    Watch how leading ecommerce brands capture AI search visibility with automated content generation.
                 </p>
             </div>
             

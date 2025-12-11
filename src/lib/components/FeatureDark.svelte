@@ -5,32 +5,32 @@
             <!-- Left Column: Headline -->
             <div class="p-8 md:p-12 border-b md:border-b-0 md:border-r border-white/10">
                 <h2 class="text-5xl md:text-7xl font-serif-display leading-[0.9] text-[#E6F4F1] tracking-tight">
-                    Search isn't <br/>
-                    clicking like <br/>
-                    it used to.
+                    Commerce is <br/>
+                    moving to <br/>
+                    AI search.
                 </h2>
             </div>
 
             <!-- Right Column: Content -->
             <div class="p-8 md:p-12 space-y-8 text-lg md:text-xl text-gray-300 font-light leading-relaxed">
                 <p>
-                    AI is reshaping how people discover and connect with brands.
+                    ChatGPT, Perplexity, and other AI search engines are becoming the new shopping assistants.
                 </p>
                 <p>
-                    Search is evolving, and content quality, craft, and genuine information-gain matter more than ever in determining who stays visible.
+                    Consumers are asking AI "what's the best running shoe for flat feet?" or "which coffee maker should I buy?" — and your products need to be in those answers.
                 </p>
                 <p>
-                    For marketers, this is the moment to lean deeper into your craft. To pair creativity and taste with systems design to amplify your impact.
+                    For ecommerce marketers, this is a $500B opportunity. But capturing it requires content at scale that's connected to your catalog.
                 </p>
                 <p>
-                    AirOps is where big ideas become real results, and where marketers become leaders in the new era of Content Engineering.
+                    Superpilot automates the entire process: identifying opportunities, generating catalog-connected content, and getting your products cited in AI search results.
                 </p>
                 <p>
-                    AirOps gives you the data, tools, playbooks, and precision needed to engineer human-in-the-loop content that earns visibility and grows your audience.
+                    No more manual content creation. No more guessing which products to feature. Just automated visibility across every AI search engine.
                 </p>
                 <p class="text-white font-medium">
-                    The shift is here.<br/>
-                    The moment belongs to you.
+                    The shift is happening now.<br/>
+                    Don't get left behind.
                 </p>
 
                 <div class="pt-8">
